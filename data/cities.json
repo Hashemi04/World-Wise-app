@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "83b4",
+      "cityName": "Fuentesauco",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-17T13:14:54.474Z",
+      "notes": "",
+      "position": {
+        "lat": "41.215019113132",
+        "lng": "-5.561524992443079"
+      }
+    },
+    {
+      "id": "4fa2",
+      "cityName": "Heyersdorf",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-08-17T13:16:18.694Z",
+      "notes": "",
+      "position": {
+        "lat": "50.845150002446786",
+        "lng": "12.347160806485125"
+      }
+    },
+    {
+      "id": "5b6c",
+      "cityName": "Madridejos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-17T16:23:33.069Z",
+      "notes": "",
+      "position": {
+        "lat": "39.57540740702221",
+        "lng": "-3.5384709107663586"
+      }
+    },
+    {
+      "id": "121f",
+      "cityName": "Torrico",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-17T16:23:36.616Z",
+      "notes": "",
+      "position": {
+        "lat": "39.845474261913495",
+        "lng": "-5.230711519078946"
+      }
+    },
+    {
+      "id": "de0c",
+      "cityName": "Presencio",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-17T16:23:39.344Z",
+      "notes": "",
+      "position": {
+        "lat": "42.18162957400211",
+        "lng": "-3.912916579288157"
+      }
+    }
+  ]
+}
