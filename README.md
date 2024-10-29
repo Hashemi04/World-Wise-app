@@ -1,4 +1,4 @@
-![Screenshot 2024-10-29 213840](https://github.com/user-attachments/assets/6b7f46eb-2b90-453a-a9fd-f92659de9e5c)World Wise App
+World Wise App
 
 This app helps you to track your trips
 add the places that you visited and share your experiances in that places 
